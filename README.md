@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **mrz-f0Th/mrz-f0Th** is a ✨ _special_ ✨ reposito<h1 align="center">Hi 👋, I'm Raka Zakaria</h1>
 <h3 align="center">A passionate fullstack developer from Indonesia</h3>
 
@@ -40,4 +39,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
